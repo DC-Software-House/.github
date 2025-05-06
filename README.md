@@ -1,2 +1,1 @@
-# .github
-DC Software House
+# DC Software House
